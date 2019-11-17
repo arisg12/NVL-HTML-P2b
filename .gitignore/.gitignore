@@ -1,0 +1,38 @@
+</head>
+	<body>
+		<p>Lista ordenada alfabéticamente</p>
+		
+		<ol type="a">
+			<li>Primero</li>
+			<li>Segundo</li>
+		</ol>
+			</ol>
+      
+      
+		<html>
+                <head>
+                <title> Colores </title>
+                </head>
+                <body bgcolor=”#66CC99” text=”#0000FF”>
+                               Texto azul sobre fondo verde
+                </body>
+</html
+
+
+
+<html>
+                <head>
+                               <title>
+                               L&iacute;neas horizontales
+                             </title>
+                </head>
+           <body>
+               <p>
+                              Hoy es un dia de lluvias
+                <p>
+                <hr>
+               <p>
+                               Los Arboles tienen las hojas verdes
+                </p>
+                </body>
+</html>
